@@ -4,4 +4,5 @@ froala_editor.js
 node_modules
 dist
 npm-debug.log
+bower_components
 .DS_STORE
